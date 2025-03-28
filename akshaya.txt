@@ -1,0 +1,44 @@
+Tips
+Markdown
+
+You can style parts of the text bold, italic, or strikethrough using Markdown.
+
+For example:
+
+    Bold text is created by wrapping text with double asterisks: **bold**
+    Italic text is created by wrapping text with single asterisks: *italic*
+    Strikethrough text is created by wrapping text with double tildes: ~~strikethrough~~
+
+Troubleshoot syncing
+
+    After enabling sync, try writing some more text on all the devices.
+    More…
+
+Frequently Asked Questions
+I have a feature request, bug report, or some feedback
+
+Send it here.
+How do I add the widget?
+
+    iOS
+    macOS
+    watchOS
+
+The widget does not show up in the widget picker, the widget is stuck, or is missing from the Home Screen
+
+The iOS widget system is quite buggy and can fail a lot. This is not a problem with the app and out of my control. Try this.
+The widget is blank
+
+Try this:
+
+    Restart your device.
+    Change the language of the device to something else and then back.
+    Ensure Lock Screen widgets are allowed to show content while the device is locked at “Settings › Face ID & Passcode › Allow Access When Locked › Lock Screen Widgets”.
+
+Can you support having multiple pieces of text that change during the day?
+
+I would like to keep the app simple, so it’s not something I plan to support built-in. However, the app comes with a shortcut action to change the text, so you could use the Shortcuts automations to change the text during the day.
+
+You could also put multiple widgets in a widget stack.
+
+(macOS does not yet have automations. You can use Shortery for now.)
